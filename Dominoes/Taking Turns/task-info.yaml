@@ -447,6 +447,6 @@ files:
 - name: test/__init__.py
   visible: false
   learner_created: false
-feedback_link: https://hyperskill.org/projects/146/stages/788/implement#comment
+feedback_link: https://hyperskill.org/learn/step/11857#comment
 status: Failed
 record: 3
